@@ -1,0 +1,9 @@
+The CNC Toolkit enables creative and effective use of multi-axis computer controlled machinery.
+It does this by taking advantage of 3D Studio Max's (and its variants, including GMAX which is free) ability to model the kinematics of complex mechanical systems. Although written as a CAM plugin for CNC mills and routers, the CNC Toolkit is probably best thought of as a collection of utilities to help users produce, edit, import and export the machine control codes for general automation, mechatronic, hexapod, robotic and animatronic applications.
+The source code is freely available under the GPL licence, if you wish to develop your own modules and post-processors please use the source control system and share your modifications.
+
+The CNC Toolkit was initially developed for use with the various CNC machines which I have designed, built and retrofitted to assist in the creation of our jewellery and craft products. With this background, the software has evolved with an emphasis on being able to work creatively, flexibly and more efficiently through complete control of the toolpath. A lot of design freedom comes from creating the toolpath directly and this has helped harness the potential of our CNC machinery as more of an extension of and supplement to traditional 'hand crafted' methods rather than as a replacement.
+
+[CNC4FREE](http://code.google.com/p/cnctoolkit/wiki/cnc4free) has created extensive tutorials to enable users get to grips with the CNC-Toolkit and GMAX.
+
+I trust that you find it useful, please do get involved in the [forum](http://groups.yahoo.com/group/CNC_Toolkit/), [blog](http://cnc-toolkit.blogspot.com/) and code development.
